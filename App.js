@@ -7,6 +7,7 @@ class App extends Component {
     super(props);
     this.apiKey = '';
     this.sessionId = '';
+    this.token = '';
   }
   render() {
     return (
